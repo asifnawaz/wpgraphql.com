@@ -8,7 +8,7 @@ const plugins = [
     resolve: "gatsby-plugin-sitemap",
     options: {
       resolveSiteUrl: () => {
-        return "https://www.wpgraphql.com"
+        return "https://sirfhungama.com"
       },
     },
   },
